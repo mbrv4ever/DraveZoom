@@ -2,6 +2,12 @@
 
 Schermvergrootglas: vergroot het stuk scherm rond je muis, met filters (grijswaarden, kleuren omkeren, hoog contrast) voor wie slecht ziet. Lokaal, offline, gratis (met donatie).
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveZoom](https://dravenlock.nl/video/DraveZoom.jpg)](https://dravenlock.nl/video/DraveZoom.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveZoom.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.16.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
